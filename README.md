@@ -59,7 +59,7 @@ The project aims to answer the following questions:
 
 ## 6. Dashboard Preview
 
-![Dashboard Screenshot](<img width="1099" height="799" alt="SUPERSTORE SALES" src="https://github.com/user-attachments/assets/d5822b30-64a2-4afe-9226-1ecc331e2503" />)
+![Dashboard Screenshot](<img width="1099" height="799" alt="SUPERSTORE SALES" src="https://github.com/user-attachments/assets/36c96375-0eb9-49f6-8a46-4c50c2258591" />)
 
 **Dashboard Features:**
 - Executive KPIs: Total Revenue, Top Product, Top Region
