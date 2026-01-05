@@ -22,7 +22,7 @@ The project aims to answer the following questions:
 - **SQL:** SQLite for data cleaning and analysis  
 - **Python:** Pandas, Matplotlib, Seaborn for EDA and visualization  
 - **Tableau:** Executive dashboard creation  
-- **GitHub:** Version control and portfolio presentation  
+- **Git & GitHub:** Version control and portfolio presentation  
 
 ---
 
